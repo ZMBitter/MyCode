@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+  <bean id="car" class="com.zm.bean.SpEL.Car">
+      <!--字符串-->
+      <property name="brand" value="#{'奥迪ZXU-9'}"/>
+      <!--小数-->
+      <property name="price" value="#{12.3}"/>
+      <!--整数-->
+      <property name="saleCount" value="#{200}"/>
+      <!--科学计数法-->
+      <property name="yearCount" value="#{2e3}"/>
+      <!--boolean值-->
+      <property name="flag" value="#{true}"/>
+  </bean>
+</beans>

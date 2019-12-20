@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--将Dept对象那个装配到Spring IOC容器中-->
+    <bean id="dept" class="com.zm.bean.autowired.Dept">
+      <property name="deptId" value="1"/>
+      <property name="deptName" value="市场部"/>
+  </bean>
+
+    <!--通过属性名装配-->
+   <!-- <bean class="com.zm.bean.autowired.Employee" id="emp" autowire="byName"></bean>-->
+
+    <!--将Dept通过属性的数据类型进行装配
+     缺点：如果存在多个相同类型的对象，则会报错
+    -->
+   <!-- <bean class="com.zm.bean.autowired.Employee" id="emp" autowire="byType"></bean>-->
+
+    <!--通过构造方法进行自动装配。需要注意的是-->
+   <bean id="emp" class="com.zm.bean.autowired.Employee" autowire="constructor"></bean>
+</beans>
