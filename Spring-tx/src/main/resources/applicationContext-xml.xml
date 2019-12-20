@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:tx="http://www.springframework.org/schema/tx"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+    <!--导入资源文件-->
+    <context:property-placeholder location="classpath:db.properties"/>
+    <!--配置druid数据源-->
+    <bean id="dataSource" class="com.alibaba.druid.pool.DruidDataSource" init-method="init" destroy-method="close">
+        <property name="driverClassName" value="${jdbc.driverClassName}"/>
+        <property name="url" value="${jdbc.url}"/>
+        <property name="username" value="${jdbc.username}"/>
+        <property name="password" value="${jdbc.password}"/>
+        <property name="initialSize" value="${jdbc.initialSize}"/>
+        <property name="minIdle" value="${jdbc.minIdle}"/>
+        <property name="maxActive" value="${jdbc.maxActive}"/>
+    </bean>
+
+    <!--配置spring的JdbcTemplate-->
+    <bean id="template" class="org.springframework.jdbc.core.JdbcTemplate">
+        <!--引入数据源-->
+        <property name="dataSource" ref="dataSource"/>
+    </bean>
+
+<!--==================================================================================================-->
+    <!--将需要实例化的Bean对象注入到Spring Ioc的容器中-->
+    <bean id="bankDao" class="com.zm.xmlTx.dao.impl.BankDaoImpl">
+        <property name="template" ref="template"/>
+    </bean>
+
+    <bean id="transfer" class="com.zm.xmlTx.service.impl.TransferImpl">
+        <property name="bankDao" ref="bankDao"/>
+    </bean>
+<!--==============================================================================================-->
+    <!--1. 配置事务管理器-->
+    <bean class="org.springframework.jdbc.datasource.DataSourceTransactionManager" id="transactionManager">
+        <!--使用哪个数据源-->
+        <property name="dataSource" ref="dataSource"/>
+    </bean>
+    <!--2. 配置事务属性-->
+   <tx:advice transaction-manager="transactionManager" id="txAdvice">
+        <tx:attributes>
+        <!--
+        根据方法名指定事务的属性(传播方式，是否只可读，隔离级别)
+        propagation：设置事务的传播行为。有7中传播行为，默认值是REQUIRED
+        isolation：设置事务的隔离级别。
+        DEFAULT:可重复读(mysql)    READ_UNCOMITTED：读未提交
+        READ_COMMITED：读已提交  REPEATABLE_READ   SERLALIZABLE
+        read-only：是否只读。true只读   false不只读
+        timeout：设置等待的响应时间。若超过了这个时间还未执行，则抛出异常回滚。
+
+        * 所有方法，是一个通配符-->
+            <!-- <tx:method name="*"/>-->
+            <tx:method name="transferMoney" propagation="REQUIRES_NEW"  />
+        </tx:attributes>
+    </tx:advice>
+    <!--3. 配置事务切入点，以及将事务切入点和事务属性关联起来-->
+    <aop:config>
+        <aop:pointcut expression="execution(* com.zm.xmlTx.service.impl.TransferImpl.*(..))"
+                      id="txPointCut"/>
+        <aop:advisor advice-ref="txAdvice" pointcut-ref="txPointCut"/>
+    </aop:config>
+</beans>
