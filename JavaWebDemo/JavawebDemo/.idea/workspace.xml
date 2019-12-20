@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JavawebDemo:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24950d18-5ade-4d50-a259-6851ad70a272" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/show.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="148" lean-forward="true" selection-start-line="148" selection-end-line="148" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zm/web/servlet/DeleCustomServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="28" column="58" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/add.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1131">
+              <caret line="66" column="11" lean-forward="true" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zm/web/servlet/AddCustomServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="44" column="76" selection-start-line="44" selection-start-column="76" selection-end-line="44" selection-end-column="76" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/head.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zm/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zm/service/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zm/dao/CustomerDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/zm/dao/impl/CustomerDAOImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="707">
+              <caret line="144" lean-forward="true" selection-start-line="144" selection-end-line="144" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zm/web/servlet/FindCustomByPageServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="609">
+              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/index.html" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/html/show.html" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/show.jsp" />
+        <option value="$PROJECT_DIR$/src/com/zm/servlet/UserServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/zm/web/servlet/UserServlet.java" />
+        <option value="$PROJECT_DIR$/src/druid.properties" />
+        <option value="$PROJECT_DIR$/src/com/zm/utils/DruidUtil.java" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/src/com/zm/web/servlet/CheckCodeServlet.java" />
+        <option value="$PROJECT_DIR$/web/login.jsp" />
+        <option value="$PROJECT_DIR$/src/com/zm/model/Customer.java" />
+        <option value="$PROJECT_DIR$/src/com/zm/model/User.java" />
+        <option value="$PROJECT_DIR$/src/com/zm/dao/UserDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/zm/dao/impl/UserDAOImpl.java" />
+        <option value="$PROJECT_DIR$/web/add.html" />
+        <option value="$PROJECT_DIR$/web/head.html" />
+        <option value="$PROJECT_DIR$/web/login.html" />
+        <option value="$PROJECT_DIR$/web/add.jsp" />
+        <option value="$PROJECT_DIR$/src/com/zm/web/servlet/CustomServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/zm/web/servlet/CustomByIdServlet.java" />
+        <option value="$PROJECT_DIR$/web/update.jsp" />
+        <option value="$PROJECT_DIR$/src/com/zm/web/servlet/UpdateCustomServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/zm/dao/PageBeanDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/zm/model/PageBean.java" />
+        <option value="$PROJECT_DIR$/src/com/zm/web/servlet/DeleBatchServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/zm/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/com/zm/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/zm/test/JavaWebTest.java" />
+        <option value="$PROJECT_DIR$/src/com/zm/dao/impl/CustomerDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/zm/web/servlet/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/web/head.jsp" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/src/com/zm/web/servlet/DeleCustomServlet.java" />
+        <option value="$PROJECT_DIR$/web/show.jsp" />
+        <option value="$PROJECT_DIR$/src/com/zm/web/servlet/AddCustomServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/zm/web/servlet/FindCustomByPageServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/zm/dao/CustomerDAO.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven\localResposity" />
+        <option name="userSettingsFile" value="D:\apache-maven\maven3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576832316732" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaWorkSpace\idea_project\JavawebDemo\web\WEB-INF\lib" />
+      <recent name="E:\JavaWorkSpace\idea_project\JavawebDemo\src\com\zm\web\servlet" />
+      <recent name="E:\JavaWorkSpace\idea_project\JavawebDemo\src\com\zm\utils" />
+      <recent name="E:\JavaWorkSpace\idea_project\JavawebDemo\src" />
+      <recent name="E:\JavaWorkSpace\idea_project\JavawebDemo\web\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaWorkSpace\idea_project\JavawebDemo\web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.index.jsp">
+    <configuration name="JavaWebTest.deleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavawebDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zm.test" />
+      <option name="MAIN_CLASS_NAME" value="com.zm.test.JavaWebTest" />
+      <option name="METHOD_NAME" value="deleTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaWebTest.pageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavawebDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zm.test" />
+      <option name="MAIN_CLASS_NAME" value="com.zm.test.JavaWebTest" />
+      <option name="METHOD_NAME" value="pageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaWebTest.updateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavawebDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zm.test" />
+      <option name="MAIN_CLASS_NAME" value="com.zm.test.JavaWebTest" />
+      <option name="METHOD_NAME" value="updateTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="index.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.21" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8888/index.jsp" />
+      <deployment>
+        <artifact name="JavawebDemo:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="index_jsp_JavawebDemo_4" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64194" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JavawebDemo:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="login.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.21" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8888/login.jsp" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="JavawebDemo:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="login_jsp_JavawebDemo" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57993" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JavawebDemo:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.JavaWebTest.updateTest" />
+      <item itemvalue="JUnit.JavaWebTest.deleTest" />
+      <item itemvalue="JUnit.JavaWebTest.pageTest" />
+      <item itemvalue="Tomcat Server.login.jsp" />
+      <item itemvalue="Tomcat Server.index.jsp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Tomcat Server.index.jsp" />
+        <item itemvalue="Tomcat Server.login.jsp" />
+        <item itemvalue="JUnit.JavaWebTest.pageTest" />
+        <item itemvalue="JUnit.JavaWebTest.deleTest" />
+        <item itemvalue="JUnit.JavaWebTest.updateTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24950d18-5ade-4d50-a259-6851ad70a272" name="Default Changelist" comment="" />
+      <created>1574691066683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574691066683</updated>
+      <workItem from="1574691072183" duration="3290000" />
+      <workItem from="1574729778194" duration="9018000" />
+      <workItem from="1574752166549" duration="10453000" />
+      <workItem from="1574781289295" duration="2330000" />
+      <workItem from="1574815231376" duration="5832000" />
+      <workItem from="1574822554460" duration="1749000" />
+      <workItem from="1574835632237" duration="9008000" />
+      <workItem from="1574864472362" duration="4560000" />
+      <workItem from="1574904421595" duration="6535000" />
+      <workItem from="1574922094394" duration="9763000" />
+      <workItem from="1574944385565" duration="8715000" />
+      <workItem from="1574995763941" duration="2489000" />
+      <workItem from="1575011008648" duration="2486000" />
+      <workItem from="1575027632652" duration="1159000" />
+      <workItem from="1575355299563" duration="3007000" />
+      <workItem from="1575466923500" duration="1193000" />
+      <workItem from="1575513316925" duration="1278000" />
+      <workItem from="1575555173904" duration="106000" />
+      <workItem from="1575555381021" duration="753000" />
+      <workItem from="1575595887649" duration="1201000" />
+      <workItem from="1575622508192" duration="595000" />
+      <workItem from="1575794367149" duration="12548000" />
+      <workItem from="1575878449340" duration="4159000" />
+      <workItem from="1575894231139" duration="8406000" />
+      <workItem from="1575939137600" duration="1207000" />
+      <workItem from="1575987117464" duration="4884000" />
+      <workItem from="1576827605867" duration="4707000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="JavaWebTest_pageTest - 2019.12.09 at 22h 22m 34s.xml">
+      <configuration name="JavaWebTest.pageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JavaWebTest_pageTest - 2019.12.09 at 22h 40m 16s.xml">
+      <configuration name="JavaWebTest.pageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JavaWebTest_pageTest - 2019.12.09 at 22h 41m 04s.xml">
+      <configuration name="JavaWebTest.pageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JavaWebTest_pageTest - 2019.12.09 at 22h 42m 40s.xml">
+      <configuration name="JavaWebTest.pageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JavaWebTest_pageTest - 2019.12.09 at 22h 44m 24s.xml">
+      <configuration name="JavaWebTest.pageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JavaWebTest_pageTest - 2019.12.09 at 22h 46m 06s.xml">
+      <configuration name="JavaWebTest.pageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JavaWebTest_pageTest - 2019.12.09 at 22h 47m 22s.xml">
+      <configuration name="JavaWebTest.pageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JavaWebTest_pageTest - 2019.12.09 at 22h 48m 06s.xml">
+      <configuration name="JavaWebTest.pageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JavaWebTest_pageTest - 2019.12.09 at 22h 54m 13s.xml">
+      <configuration name="JavaWebTest.pageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JavaWebTest_pageTest - 2019.12.09 at 22h 54m 49s.xml">
+      <configuration name="JavaWebTest.pageTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="121431000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49833888" visible="true" weight="0.31354642" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.5016611" side_tool="true" weight="0.2541857" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32890365" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.14784053" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2076412" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32890365" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Spring" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49833888" visible="true" weight="0.21841705" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.5016611" side_tool="true" weight="0.2541857" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.320598" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.17774086" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Spring" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/bootstrap-3.3.7-dist/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/bootstrap-3.3.7-dist/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/bootstrap-3.3.7-dist/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/jquery-3.3.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.html" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/html/show.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="179" column="12" selection-start-line="179" selection-start-column="12" selection-end-line="179" selection-end-column="12" />
+          <folding>
+            <element signature="e#7058#7065#1" expanded="true" />
+            <element signature="e#7496#7503#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/druid.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zm/utils/DruidUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="8" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils-1.9.3.jar!/org/apache/commons/beanutils/BeanUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-819">
+          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zm/web/servlet/CheckCodeServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="68" column="46" selection-start-line="68" selection-start-column="46" selection-end-line="68" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="439">
+            <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/head.html" />
+    <entry file="file://$PROJECT_DIR$/web/login.html" />
+    <entry file="file://$PROJECT_DIR$/web/add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-58">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zm/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1131">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#821#822#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zm/model/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-319">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zm/dao/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/update.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-241">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zm/web/servlet/UpdateCustomServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="34" column="51" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zm/web/servlet/CustomByIdServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="16" selection-start-line="16" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zm/web/servlet/CustomServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zm/dao/PageBeanDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zm/web/servlet/DeleBatchServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zm/model/PageBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1421">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zm/dao/impl/UserDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zm/test/JavaWebTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1769">
+          <caret line="74" column="20" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zm/web/servlet/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1624">
+          <caret line="70" column="44" selection-start-line="70" selection-start-column="44" selection-end-line="70" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-570">
+          <caret line="62" column="7" lean-forward="true" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/head.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zm/web/servlet/DeleCustomServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="28" column="58" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1131">
+          <caret line="66" column="11" lean-forward="true" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zm/web/servlet/AddCustomServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="44" column="76" selection-start-line="44" selection-start-column="76" selection-end-line="44" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/show.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="148" lean-forward="true" selection-start-line="148" selection-end-line="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zm/web/servlet/FindCustomByPageServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zm/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zm/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zm/dao/CustomerDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zm/dao/impl/CustomerDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="144" lean-forward="true" selection-start-line="144" selection-end-line="144" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JavawebDemo:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavawebDemo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
